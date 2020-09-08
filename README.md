@@ -2,7 +2,7 @@
 
 Youtube clone using PERN stack (Postgres, Express, React, and Node). 
 
-This is the frontend repository, built with React + Redux. For the backend repository, [click here](https://github.com/Yongtai-Huang/youtube-clone-backend.git)
+This is the frontend repository, built with React + Redux. For the backend repository, [click here](https://github.com/Yongtai-Huang/youtube-clone-backend)
 
 ## Core packages
 
